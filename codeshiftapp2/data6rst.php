@@ -1,8 +1,8 @@
 <?php
 
-$openshift_mysql_db_servername = "172.30.148.211:3306";
-$openshift_mysql_db_username = "userAI7";
-$openshift_mysql_db_password = "DhQVkWKwg1rDGnp7";
+$openshift_mysql_db_servername = "";
+$openshift_mysql_db_username = "";
+$openshift_mysql_db_password = "";
 $openshift_mysql_db_port = 3306;
 $openshift_mysql_db_name ="sampledb";
 $tidb_options = array(
